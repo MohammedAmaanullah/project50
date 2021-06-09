@@ -1,0 +1,18 @@
+.header{
+    display:flex;
+    background-color: gray;
+    color:cyan;
+    flex-wrap : wrap
+}
+
+.image{
+    display: grid;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: orange;
+}
+
+.footer{
+    background-color: palegoldenrod;
+    justify-content: flex-end;
+}
